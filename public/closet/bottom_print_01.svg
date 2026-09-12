@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title">
+  <title id="title">Rust and Navy Printed Wide-Leg Pants</title>
+  <rect width="360" height="420" rx="18" fill="#f1eee8"/>
+  <path d="M0 328h360v92H0z" fill="#e5dfd4"/>
+  <g fill="#a95132" stroke="#24282c" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <path d="M128 96h104l20 174h-49l-23-98-22 98H109z"/>
+  </g>
+  <text x="24" y="370" fill="#24282c" font-family="sans-serif" font-size="15" font-weight="600">Rust and Navy Printed Wide-Leg Pants</text>
+</svg>

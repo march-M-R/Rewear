@@ -1,0 +1,1851 @@
+[
+  {
+    "id": "top_white_01",
+    "name": "Crisp White Cotton Shirt",
+    "category": "top",
+    "color": "white",
+    "secondaryColors": [],
+    "style": [
+      "classic",
+      "minimal",
+      "tailored"
+    ],
+    "material": "cotton poplin",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "casual days"
+    ],
+    "weather": {
+      "minTempF": 55,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_white_01.png",
+    "timesShown": 5,
+    "timesAccepted": 2,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-01",
+    "status": "active"
+  },
+  {
+    "id": "top_black_01",
+    "name": "Black Ribbed Mock-Neck Top",
+    "category": "top",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "minimal",
+      "sleek",
+      "layering"
+    ],
+    "material": "cotton modal",
+    "pattern": "ribbed",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "work",
+      "date night",
+      "dinner",
+      "casual days"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 75,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_black_01.png",
+    "timesShown": 6,
+    "timesAccepted": 3,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-02",
+    "status": "active"
+  },
+  {
+    "id": "top_blue_01",
+    "name": "Powder Blue Linen Blouse",
+    "category": "top",
+    "color": "powder blue",
+    "secondaryColors": [
+      "white"
+    ],
+    "style": [
+      "relaxed",
+      "feminine",
+      "airy"
+    ],
+    "material": "linen blend",
+    "pattern": "solid",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "work",
+      "weekend activities",
+      "dinner",
+      "networking"
+    ],
+    "weather": {
+      "minTempF": 65,
+      "maxTempF": 95,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_blue_01.png",
+    "timesShown": 7,
+    "timesAccepted": 4,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-03",
+    "status": "active"
+  },
+  {
+    "id": "top_stripe_01",
+    "name": "Navy Breton Stripe Tee",
+    "category": "top",
+    "color": "white",
+    "secondaryColors": [
+      "navy"
+    ],
+    "style": [
+      "classic",
+      "casual",
+      "nautical"
+    ],
+    "material": "cotton jersey",
+    "pattern": "horizontal stripe",
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "formality": "casual",
+    "occasions": [
+      "casual days",
+      "weekend activities",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 55,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_stripe_01.png",
+    "timesShown": 8,
+    "timesAccepted": 5,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "id": "top_green_01",
+    "name": "Forest Green Silk Camisole",
+    "category": "top",
+    "color": "forest green",
+    "secondaryColors": [],
+    "style": [
+      "polished",
+      "feminine",
+      "layering"
+    ],
+    "material": "silk",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "parties",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 60,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_green_01.png",
+    "timesShown": 9,
+    "timesAccepted": 2,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-05",
+    "status": "active"
+  },
+  {
+    "id": "top_yellow_01",
+    "name": "Marigold Pleated Statement Blouse",
+    "category": "top",
+    "color": "marigold",
+    "secondaryColors": [
+      "cream"
+    ],
+    "style": [
+      "statement",
+      "romantic",
+      "playful"
+    ],
+    "material": "polyester crepe",
+    "pattern": "abstract floral",
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "parties",
+      "fashion events",
+      "date night",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 60,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_yellow_01.png",
+    "timesShown": 8,
+    "timesAccepted": 1,
+    "timesRejected": 7,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "bottom_black_01",
+    "name": "Black Tailored Trousers",
+    "category": "bottom",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "tailored",
+      "minimal",
+      "versatile"
+    ],
+    "material": "wool blend",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 80,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_black_01.png",
+    "timesShown": 11,
+    "timesAccepted": 4,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-07",
+    "status": "active"
+  },
+  {
+    "id": "bottom_denim_01",
+    "name": "Medium Wash Straight-Leg Jeans",
+    "category": "bottom",
+    "color": "medium blue",
+    "secondaryColors": [],
+    "style": [
+      "casual",
+      "classic",
+      "everyday"
+    ],
+    "material": "cotton denim",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "casual",
+    "occasions": [
+      "casual days",
+      "weekend activities",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_denim_01.png",
+    "timesShown": 12,
+    "timesAccepted": 5,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "id": "bottom_beige_01",
+    "name": "High-Waisted Beige Chinos",
+    "category": "bottom",
+    "color": "beige",
+    "secondaryColors": [],
+    "style": [
+      "preppy",
+      "tailored",
+      "versatile"
+    ],
+    "material": "cotton twill",
+    "pattern": "solid",
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "work",
+      "networking",
+      "casual days",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 55,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_beige_01.png",
+    "timesShown": 5,
+    "timesAccepted": 2,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-09",
+    "status": "active"
+  },
+  {
+    "id": "bottom_green_01",
+    "name": "Olive Satin Midi Skirt",
+    "category": "bottom",
+    "color": "olive",
+    "secondaryColors": [],
+    "style": [
+      "feminine",
+      "polished",
+      "statement"
+    ],
+    "material": "satin",
+    "pattern": "solid",
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "dinner",
+      "parties",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 55,
+      "maxTempF": 80,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_green_01.png",
+    "timesShown": 6,
+    "timesAccepted": 3,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "id": "bottom_print_01",
+    "name": "Rust and Navy Printed Wide-Leg Pants",
+    "category": "bottom",
+    "color": "rust",
+    "secondaryColors": [
+      "navy",
+      "cream"
+    ],
+    "style": [
+      "artistic",
+      "bold",
+      "relaxed"
+    ],
+    "material": "viscose",
+    "pattern": "geometric print",
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "fashion events",
+      "parties",
+      "weekend activities",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 60,
+      "maxTempF": 90,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_print_01.png",
+    "timesShown": 10,
+    "timesAccepted": 2,
+    "timesRejected": 8,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "dress_black_01",
+    "name": "Black Knit Wrap Dress",
+    "category": "dress",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "classic",
+      "feminine",
+      "versatile"
+    ],
+    "material": "stretch jersey",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "work",
+      "date night",
+      "dinner",
+      "networking"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/dress_black_01.png",
+    "timesShown": 8,
+    "timesAccepted": 5,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-02",
+    "status": "active"
+  },
+  {
+    "id": "dress_flower_01",
+    "name": "Blue Floral Midi Dress",
+    "category": "dress",
+    "color": "cobalt blue",
+    "secondaryColors": [
+      "white",
+      "green"
+    ],
+    "style": [
+      "romantic",
+      "feminine",
+      "statement"
+    ],
+    "material": "viscose crepe",
+    "pattern": "floral",
+    "season": [
+      "spring",
+      "summer"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "parties",
+      "dinner",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 60,
+      "maxTempF": 90,
+      "rainFriendly": false
+    },
+    "image": "/closet/dress_flower_01.png",
+    "timesShown": 9,
+    "timesAccepted": 2,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-03",
+    "status": "active"
+  },
+  {
+    "id": "dress_red_01",
+    "name": "Red Satin Slip Dress",
+    "category": "dress",
+    "color": "cherry red",
+    "secondaryColors": [],
+    "style": [
+      "glamorous",
+      "sleek",
+      "statement"
+    ],
+    "material": "satin",
+    "pattern": "solid",
+    "season": [
+      "spring",
+      "summer",
+      "fall",
+      "winter"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "parties",
+      "fashion events",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 55,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/dress_red_01.png",
+    "timesShown": 10,
+    "timesAccepted": 3,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "id": "dress_cream_01",
+    "name": "Cream Tailored Sheath Dress",
+    "category": "dress",
+    "color": "cream",
+    "secondaryColors": [],
+    "style": [
+      "minimal",
+      "tailored",
+      "elegant"
+    ],
+    "material": "crepe",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 60,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/dress_cream_01.png",
+    "timesShown": 11,
+    "timesAccepted": 4,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-05",
+    "status": "active"
+  },
+  {
+    "id": "outerwear_denim_01",
+    "name": "Classic Blue Denim Jacket",
+    "category": "outerwear",
+    "color": "blue",
+    "secondaryColors": [],
+    "style": [
+      "casual",
+      "classic",
+      "layering"
+    ],
+    "material": "cotton denim",
+    "pattern": "solid",
+    "season": [
+      "spring",
+      "summer",
+      "fall"
+    ],
+    "formality": "casual",
+    "occasions": [
+      "casual days",
+      "weekend activities",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 75,
+      "rainFriendly": false
+    },
+    "image": "/closet/outerwear_denim_01.png",
+    "timesShown": 12,
+    "timesAccepted": 5,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-06",
+    "status": "active"
+  },
+  {
+    "id": "outerwear_camel_01",
+    "name": "Camel Wool Coat",
+    "category": "outerwear",
+    "color": "camel",
+    "secondaryColors": [],
+    "style": [
+      "classic",
+      "tailored",
+      "luxurious"
+    ],
+    "material": "wool blend",
+    "pattern": "solid",
+    "season": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "date night"
+    ],
+    "weather": {
+      "minTempF": 30,
+      "maxTempF": 60,
+      "rainFriendly": false
+    },
+    "image": "/closet/outerwear_camel_01.png",
+    "timesShown": 5,
+    "timesAccepted": 2,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-07",
+    "status": "active"
+  },
+  {
+    "id": "outerwear_black_01",
+    "name": "Black Cropped Leather Jacket",
+    "category": "outerwear",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "edgy",
+      "sleek",
+      "statement"
+    ],
+    "material": "leather",
+    "pattern": "solid",
+    "season": [
+      "spring",
+      "fall",
+      "winter"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "date night",
+      "parties",
+      "fashion events",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 40,
+      "maxTempF": 65,
+      "rainFriendly": false
+    },
+    "image": "/closet/outerwear_black_01.png",
+    "timesShown": 6,
+    "timesAccepted": 3,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "id": "outerwear_print_01",
+    "name": "Black and White Houndstooth Blazer",
+    "category": "outerwear",
+    "color": "black",
+    "secondaryColors": [
+      "white"
+    ],
+    "style": [
+      "preppy",
+      "tailored",
+      "statement"
+    ],
+    "material": "wool blend",
+    "pattern": "houndstooth",
+    "season": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "work",
+      "networking",
+      "fashion events",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 70,
+      "rainFriendly": false
+    },
+    "image": "/closet/outerwear_print_01.png",
+    "timesShown": 7,
+    "timesAccepted": 4,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-09",
+    "status": "active"
+  },
+  {
+    "id": "shoes_sneakers_01",
+    "name": "White Leather Sneakers",
+    "category": "shoes",
+    "color": "white",
+    "secondaryColors": [
+      "gum brown"
+    ],
+    "style": [
+      "casual",
+      "minimal",
+      "everyday"
+    ],
+    "material": "leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "casual",
+    "occasions": [
+      "casual days",
+      "weekend activities",
+      "travel"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/shoes_sneakers_01.png",
+    "timesShown": 8,
+    "timesAccepted": 5,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "id": "shoes_loafers_01",
+    "name": "Black Leather Loafers",
+    "category": "shoes",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "classic",
+      "polished",
+      "preppy"
+    ],
+    "material": "leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 80,
+      "rainFriendly": false
+    },
+    "image": "/closet/shoes_loafers_01.png",
+    "timesShown": 9,
+    "timesAccepted": 2,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-01",
+    "status": "active"
+  },
+  {
+    "id": "shoes_boots_01",
+    "name": "Brown Chelsea Boots",
+    "category": "shoes",
+    "color": "brown",
+    "secondaryColors": [],
+    "style": [
+      "classic",
+      "casual",
+      "rugged"
+    ],
+    "material": "water-resistant treated leather with rubber soles",
+    "pattern": "solid",
+    "season": [
+      "fall",
+      "winter",
+      "spring"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "casual days",
+      "weekend activities",
+      "dinner",
+      "work"
+    ],
+    "weather": {
+      "minTempF": 35,
+      "maxTempF": 65,
+      "rainFriendly": true
+    },
+    "image": "/closet/shoes_boots_01.png",
+    "timesShown": 10,
+    "timesAccepted": 3,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-02",
+    "status": "active"
+  },
+  {
+    "id": "shoes_heels_01",
+    "name": "Red Pointed-Toe Heels",
+    "category": "shoes",
+    "color": "red",
+    "secondaryColors": [],
+    "style": [
+      "bold",
+      "glamorous",
+      "feminine"
+    ],
+    "material": "patent leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "parties",
+      "fashion events",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 55,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/shoes_heels_01.png",
+    "timesShown": 11,
+    "timesAccepted": 4,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-03",
+    "status": "active"
+  },
+  {
+    "id": "bag_tote_01",
+    "name": "Structured Tan Leather Tote",
+    "category": "bag",
+    "color": "tan",
+    "secondaryColors": [
+      "gold"
+    ],
+    "style": [
+      "classic",
+      "professional",
+      "practical"
+    ],
+    "material": "leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bag_tote_01.png",
+    "timesShown": 12,
+    "timesAccepted": 5,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-04",
+    "status": "active"
+  },
+  {
+    "id": "bag_black_01",
+    "name": "Black Chain-Handle Shoulder Bag",
+    "category": "bag",
+    "color": "black",
+    "secondaryColors": [
+      "gold"
+    ],
+    "style": [
+      "sleek",
+      "dressy",
+      "versatile"
+    ],
+    "material": "quilted faux leather",
+    "pattern": "quilted",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "parties",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bag_black_01.png",
+    "timesShown": 5,
+    "timesAccepted": 2,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-05",
+    "status": "active"
+  },
+  {
+    "id": "bag_cobalt_01",
+    "name": "Cobalt Blue Mini Crossbody",
+    "category": "bag",
+    "color": "cobalt blue",
+    "secondaryColors": [
+      "silver"
+    ],
+    "style": [
+      "playful",
+      "statement",
+      "compact"
+    ],
+    "material": "smooth leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "parties",
+      "date night",
+      "fashion events",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 90,
+      "rainFriendly": false
+    },
+    "image": "/closet/bag_cobalt_01.png",
+    "timesShown": 9,
+    "timesAccepted": 1,
+    "timesRejected": 8,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "accessory_scarf_01",
+    "name": "Silk Burgundy Printed Scarf",
+    "category": "accessory",
+    "color": "burgundy",
+    "secondaryColors": [
+      "navy",
+      "gold",
+      "cream"
+    ],
+    "style": [
+      "classic",
+      "artistic",
+      "statement"
+    ],
+    "material": "silk",
+    "pattern": "paisley",
+    "season": [
+      "spring",
+      "fall",
+      "winter"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 40,
+      "maxTempF": 70,
+      "rainFriendly": false
+    },
+    "image": "/closet/accessory_scarf_01.png",
+    "timesShown": 7,
+    "timesAccepted": 4,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-07",
+    "status": "active"
+  },
+  {
+    "id": "accessory_belt_01",
+    "name": "Brown Leather Belt",
+    "category": "accessory",
+    "color": "brown",
+    "secondaryColors": [
+      "gold"
+    ],
+    "style": [
+      "classic",
+      "minimal",
+      "practical"
+    ],
+    "material": "leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "work",
+      "casual days",
+      "dinner",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 85,
+      "rainFriendly": true
+    },
+    "image": "/closet/accessory_belt_01.png",
+    "timesShown": 8,
+    "timesAccepted": 5,
+    "timesRejected": 1,
+    "timesLocked": 1,
+    "timesWorn": 1,
+    "lastWorn": "2026-09-08",
+    "status": "active"
+  },
+  {
+    "id": "accessory_earrings_01",
+    "name": "Oversized Gold Hoop Earrings",
+    "category": "accessory",
+    "color": "gold",
+    "secondaryColors": [],
+    "style": [
+      "bold",
+      "glamorous",
+      "minimal"
+    ],
+    "material": "gold-plated brass",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "parties",
+      "fashion events",
+      "dinner"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 95,
+      "rainFriendly": false
+    },
+    "image": "/closet/accessory_earrings_01.png",
+    "timesShown": 9,
+    "timesAccepted": 2,
+    "timesRejected": 2,
+    "timesLocked": 2,
+    "timesWorn": 2,
+    "lastWorn": "2026-09-09",
+    "status": "active"
+  },
+  {
+    "id": "accessory_beanie_01",
+    "name": "Heather Gray Ribbed Merino Beanie",
+    "category": "accessory",
+    "color": "heather gray",
+    "secondaryColors": [],
+    "style": [
+      "minimal",
+      "casual",
+      "cozy"
+    ],
+    "material": "merino wool",
+    "pattern": "ribbed",
+    "season": [
+      "fall",
+      "winter"
+    ],
+    "formality": "casual",
+    "occasions": [
+      "casual days",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 20,
+      "maxTempF": 55,
+      "rainFriendly": false
+    },
+    "image": "/closet/accessory_beanie_01.jpg",
+    "timesShown": 10,
+    "timesAccepted": 3,
+    "timesRejected": 3,
+    "timesLocked": 3,
+    "timesWorn": 3,
+    "lastWorn": "2026-09-10",
+    "status": "active"
+  },
+  {
+    "id": "top_draped_black_01",
+    "name": "Black Ruched Draped Top",
+    "category": "top",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "romantic",
+      "sleek",
+      "statement"
+    ],
+    "material": "unknown",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "dinner",
+      "parties",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 78,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_draped_black_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "bottom_houndstooth_01",
+    "name": "Black and Ivory Houndstooth Mini Skirt",
+    "category": "bottom",
+    "color": "black",
+    "secondaryColors": [
+      "ivory"
+    ],
+    "style": [
+      "preppy",
+      "tailored",
+      "classic"
+    ],
+    "material": "unknown",
+    "pattern": "houndstooth",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "networking",
+      "date night",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 75,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_houndstooth_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "outerwear_blazer_black_01",
+    "name": "Black Oversized Tailored Blazer",
+    "category": "outerwear",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "tailored",
+      "minimal",
+      "oversized"
+    ],
+    "material": "unknown",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "work",
+      "networking",
+      "dinner",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 40,
+      "maxTempF": 70,
+      "rainFriendly": false
+    },
+    "image": "/closet/outerwear_blazer_black_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "bag_structured_black_01",
+    "name": "Structured Black Top-Handle Bag",
+    "category": "bag",
+    "color": "black",
+    "secondaryColors": [
+      "gold"
+    ],
+    "style": [
+      "structured",
+      "classic",
+      "minimal"
+    ],
+    "material": "unknown",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "work",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 20,
+      "maxTempF": 95,
+      "rainFriendly": false
+    },
+    "image": "/closet/bag_structured_black_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "accessory_earrings_gold_01",
+    "name": "Gold Sculptural Teardrop Earrings",
+    "category": "accessory",
+    "color": "gold",
+    "secondaryColors": [],
+    "style": [
+      "sculptural",
+      "statement",
+      "modern"
+    ],
+    "material": "unknown",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "date night",
+      "dinner",
+      "parties",
+      "fashion events"
+    ],
+    "weather": {
+      "minTempF": 20,
+      "maxTempF": 95,
+      "rainFriendly": false
+    },
+    "image": "/closet/accessory_earrings_gold_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "shoes_pumps_black_01",
+    "name": "Black Pointed-Toe Stiletto Pumps",
+    "category": "shoes",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "classic",
+      "sleek",
+      "minimal"
+    ],
+    "material": "unknown",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "work",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 45,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/shoes_pumps_black_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "top_cardigan_cream_01",
+    "name": "Cream Fine-Knit Button Cardigan",
+    "category": "top",
+    "color": "cream",
+    "secondaryColors": [],
+    "style": [
+      "classic",
+      "layering",
+      "soft"
+    ],
+    "material": "fine-gauge cotton knit",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "casual days",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_cardigan_cream_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "top_burgundy_01",
+    "name": "Burgundy Asymmetric Long-Sleeve Top",
+    "category": "top",
+    "color": "burgundy",
+    "secondaryColors": [],
+    "style": [
+      "sculptural",
+      "sleek",
+      "statement"
+    ],
+    "material": "stretch jersey",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_burgundy_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "top_silver_01",
+    "name": "Silver Shimmer Halter Top",
+    "category": "top",
+    "color": "silver",
+    "secondaryColors": [],
+    "style": [
+      "metallic",
+      "statement",
+      "evening"
+    ],
+    "material": "metallic knit",
+    "pattern": "metallic",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/top_silver_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "bottom_denim_midi_01",
+    "name": "Indigo Front-Slit Denim Midi Skirt",
+    "category": "bottom",
+    "color": "indigo",
+    "secondaryColors": [],
+    "style": [
+      "modern",
+      "casual",
+      "structured"
+    ],
+    "material": "cotton denim",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "casual days",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_denim_midi_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "bottom_chocolate_01",
+    "name": "Chocolate Wide-Leg Tailored Trousers",
+    "category": "bottom",
+    "color": "chocolate",
+    "secondaryColors": [],
+    "style": [
+      "tailored",
+      "minimal",
+      "relaxed"
+    ],
+    "material": "wool blend",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "professional",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_chocolate_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "bottom_shorts_black_01",
+    "name": "Black Tailored Bermuda Shorts",
+    "category": "bottom",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "tailored",
+      "modern",
+      "minimal"
+    ],
+    "material": "woven suiting blend",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "casual days",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bottom_shorts_black_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "dress_offshoulder_black_01",
+    "name": "Black Off-Shoulder Midi Dress",
+    "category": "dress",
+    "color": "black",
+    "secondaryColors": [],
+    "style": [
+      "minimal",
+      "sculptural",
+      "evening"
+    ],
+    "material": "stretch crepe",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/dress_offshoulder_black_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "dress_cobalt_01",
+    "name": "Cobalt Draped Mini Dress",
+    "category": "dress",
+    "color": "cobalt blue",
+    "secondaryColors": [],
+    "style": [
+      "bold",
+      "draped",
+      "statement"
+    ],
+    "material": "satin",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/dress_cobalt_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "outerwear_cropped_ivory_01",
+    "name": "Ivory Cropped Collarless Jacket",
+    "category": "outerwear",
+    "color": "ivory",
+    "secondaryColors": [],
+    "style": [
+      "structured",
+      "modern",
+      "layering"
+    ],
+    "material": "textured cotton blend",
+    "pattern": "textured",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "casual days",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 70,
+      "rainFriendly": false
+    },
+    "image": "/closet/outerwear_cropped_ivory_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "shoes_flats_silver_01",
+    "name": "Silver Square-Toe Ballet Flats",
+    "category": "shoes",
+    "color": "silver",
+    "secondaryColors": [],
+    "style": [
+      "metallic",
+      "modern",
+      "comfortable"
+    ],
+    "material": "metallic-finish leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "smart-casual",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "casual days",
+      "weekend activities"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/shoes_flats_silver_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "shoes_slingbacks_burgundy_01",
+    "name": "Burgundy Kitten-Heel Slingbacks",
+    "category": "shoes",
+    "color": "burgundy",
+    "secondaryColors": [],
+    "style": [
+      "polished",
+      "classic",
+      "sleek"
+    ],
+    "material": "patent leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 50,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/shoes_slingbacks_burgundy_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  },
+  {
+    "id": "bag_silver_01",
+    "name": "Silver Crescent Shoulder Bag",
+    "category": "bag",
+    "color": "silver",
+    "secondaryColors": [],
+    "style": [
+      "metallic",
+      "modern",
+      "compact"
+    ],
+    "material": "metallic-finish faux leather",
+    "pattern": "solid",
+    "season": [
+      "all-season"
+    ],
+    "formality": "dressy",
+    "occasions": [
+      "fashion events",
+      "networking",
+      "date night",
+      "dinner",
+      "parties"
+    ],
+    "weather": {
+      "minTempF": 20,
+      "maxTempF": 85,
+      "rainFriendly": false
+    },
+    "image": "/closet/bag_silver_01.png",
+    "timesShown": 0,
+    "timesAccepted": 0,
+    "timesRejected": 0,
+    "timesLocked": 0,
+    "timesWorn": 0,
+    "lastWorn": null,
+    "status": "active"
+  }
+]

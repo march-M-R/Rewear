@@ -1,26 +1,17 @@
 @import "tailwindcss";
 
-:root {
-  --background: #ffffff;
-  --foreground: #171717;
+@layer base {
+  body { @apply bg-[#f7f6f2] text-stone-900; }
+  button, a, input, select { @apply focus-visible:outline-2 focus-visible:outline-offset-4 focus-visible:outline-stone-700; }
+  button { @apply cursor-pointer disabled:cursor-not-allowed disabled:opacity-40; }
+  button, a { @apply motion-safe:transition-colors motion-safe:duration-150; }
 }
-
-@theme inline {
-  --color-background: var(--background);
-  --color-foreground: var(--foreground);
-  --font-sans: var(--font-geist-sans);
-  --font-mono: var(--font-geist-mono);
-}
-
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
-body {
-  background: var(--background);
-  color: var(--foreground);
-  font-family: Arial, Helvetica, sans-serif;
+@layer components {
+  .page-shell { @apply mx-auto w-full max-w-[1440px] flex-1 px-5 py-10 sm:px-8 md:py-14 lg:px-14; }
+  .eyebrow { @apply text-[10px] font-medium uppercase tracking-[0.22em] text-stone-500; }
+  .editorial-title { @apply font-serif text-5xl leading-[1.05] tracking-[-0.045em] sm:text-6xl lg:text-7xl; }
+  .btn-primary { @apply inline-flex min-h-12 items-center justify-center gap-3 rounded-full bg-stone-900 px-6 py-3 text-[11px] font-medium uppercase tracking-[0.12em] text-white hover:bg-stone-700; }
+  .btn-secondary { @apply inline-flex min-h-12 items-center justify-center gap-3 rounded-full border border-stone-300 px-6 py-3 text-[11px] font-medium uppercase tracking-[0.12em] hover:bg-white; }
+  .metric { @apply font-serif text-3xl tracking-tight sm:text-4xl; }
+  .demo-label { @apply inline-flex items-center gap-2 rounded-full bg-[#e9e6de] px-3 py-1.5 text-[10px] tracking-wide text-stone-600; }
 }

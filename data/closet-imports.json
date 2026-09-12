@@ -1,0 +1,30 @@
+[
+  {
+    "key": "rewear_import_runway_to_reality_v1",
+    "ids": [
+      "top_draped_black_01",
+      "bottom_houndstooth_01",
+      "outerwear_blazer_black_01",
+      "bag_structured_black_01",
+      "accessory_earrings_gold_01",
+      "shoes_pumps_black_01"
+    ]
+  },
+  {
+    "key": "rewear_import_fashion_week_expansion_v1",
+    "ids": [
+      "top_cardigan_cream_01",
+      "top_burgundy_01",
+      "top_silver_01",
+      "bottom_denim_midi_01",
+      "bottom_chocolate_01",
+      "bottom_shorts_black_01",
+      "dress_offshoulder_black_01",
+      "dress_cobalt_01",
+      "outerwear_cropped_ivory_01",
+      "shoes_flats_silver_01",
+      "shoes_slingbacks_burgundy_01",
+      "bag_silver_01"
+    ]
+  }
+]

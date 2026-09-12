@@ -1,0 +1,58 @@
+[
+  {
+    "id": "event_01",
+    "title": "Office",
+    "date": "2026-09-07",
+    "time": "09:00 AM",
+    "context": "a day of desk work and team catch-ups at a creative agency",
+    "dressCode": "smart-casual with comfortable shoes"
+  },
+  {
+    "id": "event_02",
+    "title": "Client Meeting",
+    "date": "2026-09-08",
+    "time": "11:00 AM",
+    "context": "presenting a project to a new client in person",
+    "dressCode": "professional and polished"
+  },
+  {
+    "id": "event_03",
+    "title": "Dinner with Friends",
+    "date": "2026-09-09",
+    "time": "07:00 PM",
+    "context": "a relaxed dinner at a neighborhood restaurant after work",
+    "dressCode": "casual with a personal touch"
+  },
+  {
+    "id": "event_04",
+    "title": "Networking Event",
+    "date": "2026-09-10",
+    "time": "06:00 PM",
+    "context": "an early-career creative industry mixer with standing conversations",
+    "dressCode": "smart-casual, expressive, and comfortable for standing"
+  },
+  {
+    "id": "event_05",
+    "title": "Date Night",
+    "date": "2026-09-11",
+    "time": "07:30 PM",
+    "context": "dinner and live music with a short walk between venues",
+    "dressCode": "dressy with a light layer for the evening"
+  },
+  {
+    "id": "event_06",
+    "title": "AI Fashion Hackathon",
+    "date": "2026-09-12",
+    "time": "10:00 AM",
+    "context": "a creative professional event with a full day of building, demos, and an evening wrap party",
+    "dressCode": "fashion-forward but comfortable"
+  },
+  {
+    "id": "event_07",
+    "title": "Casual Weekend",
+    "date": "2026-09-13",
+    "time": "11:00 AM",
+    "context": "brunch, a farmers market, and a walk with friends",
+    "dressCode": "relaxed casual with walking shoes"
+  }
+]

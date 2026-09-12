@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 420" role="img" aria-labelledby="title">
+  <title id="title">Oversized Gold Hoop Earrings</title>
+  <rect width="360" height="420" rx="18" fill="#f1eee8"/>
+  <path d="M0 328h360v92H0z" fill="#e5dfd4"/>
+  <g fill="#c49a42" stroke="#24282c" stroke-width="5" stroke-linejoin="round" stroke-linecap="round">
+    <circle cx="180" cy="165" r="52"/><circle cx="180" cy="165" r="27" fill="#f7f6f1"/><path d="M211 200 275 264" fill="none" stroke-width="18"/>
+  </g>
+  <text x="24" y="370" fill="#24282c" font-family="sans-serif" font-size="15" font-weight="600">Oversized Gold Hoop Earrings</text>
+</svg>
