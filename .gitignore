@@ -23,6 +23,7 @@
 # misc
 .DS_Store
 *.pem
+*.key
 
 # debug
 npm-debug.log*
@@ -30,9 +31,16 @@ yarn-debug.log*
 yarn-error.log*
 .pnpm-debug.log*
 
-# env files (can opt-in for committing if needed)
+# local secrets; commit only the blank configuration template
 .env*
 !.env.example
+
+# generated screenshots and local artifacts
+/output/
+
+# local editor settings
+/.idea/
+/.vscode/
 
 # vercel
 .vercel
