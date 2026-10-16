@@ -2,6 +2,14 @@
 
 Wear more. Own less. Buy better.
 
+## Watch the demo
+
+**[Watch the demo video](https://rewear-rosy.vercel.app/#demo)** · **[Try the live website](https://rewear-rosy.vercel.app)**
+
+See how LOOPD helps you plan outfits, rediscover your wardrobe, and give unworn pieces a new life.
+
+[View or download the MP4](docs/REWEAR%20demo.mp4)
+
 A functional hackathon prototype built with the existing Next.js App Router, TypeScript, and Tailwind frontend. Shared JSON seeds the wardrobe; browser localStorage holds runtime state. No database or authentication is required.
 
 ## Run
