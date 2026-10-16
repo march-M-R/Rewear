@@ -1,4 +1,4 @@
-# REWEAR
+# LOOPD
 
 Wear more. Own less. Buy better.
 

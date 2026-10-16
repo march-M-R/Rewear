@@ -35,6 +35,6 @@ export default function TryOnPreview({event,garments,closet,photo,onPhotoChange,
     {configured===false&&<p className="mt-3 text-sm text-stone-600">OpenAI is not connected yet. Set OPENAI_API_KEY in .env.local and restart the app.</p>}
     {(busy||preparing)&&<p role="status" className="mt-3 text-sm">{preparing?'Preparing your photo…':'Creating one preview for this event. This may take up to two minutes.'}</p>}
     {error&&<p role="alert" className="mt-3 text-sm text-red-800">{error}</p>}
-    {current&&<div className="mt-6"><Image unoptimized src={current.image} alt={`AI-generated preview of you wearing the selected outfit for ${event.title}`} width={1024} height={1536} className="mx-auto max-h-[800px] w-auto max-w-full rounded-2xl"/><p className="mt-3 text-xs text-stone-500">OpenAI-generated · {current.notice}</p><a href={current.image} download={`rewear-${event.date}-${event.id}.jpg`} className="btn-secondary mt-4">Download preview</a></div>}
+    {current&&<div className="mt-6"><Image unoptimized src={current.image} alt={`AI-generated preview of you wearing the selected outfit for ${event.title}`} width={1024} height={1536} className="mx-auto max-h-[800px] w-auto max-w-full rounded-2xl"/><p className="mt-3 text-xs text-stone-500">OpenAI-generated · {current.notice}</p><a href={current.image} download={`loopd-${event.date}-${event.id}.jpg`} className="btn-secondary mt-4">Download preview</a></div>}
   </section>;
 }

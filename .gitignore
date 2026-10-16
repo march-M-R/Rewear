@@ -37,6 +37,7 @@ yarn-error.log*
 
 # generated screenshots and local artifacts
 /output/
+/.loopd-deck-build/
 
 # local editor settings
 /.idea/
